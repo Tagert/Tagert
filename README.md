@@ -1,12 +1,12 @@
 ## 👋 Hi there, I’m Andrejus
-👀 Junior front-end developer transitioning from a background in geodesic engineering.<br/>
+👀 &nbsp; Junior developer transitioning from a background in geodetic engineering.<br/>
 
-🎓 Attended coding bootcamps such as:     
--  <img height="30px" align="center" src="https://codeacademy.lt/wp-content/themes/codeacademy/dist/images/codeacademy-black.svg" alt="code academy icon" />
--  <img height="30px" src="https://www.iamjunior.lt/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Flogo.aeb85af4.png&w=48&q=75" alt="I am Junior icon" /> <br/>
+🚀 &nbsp; Currently focused on learning and building Full-Stack, SaaS aplications. </br>
 
-🚀 Currently focused on building full-stack applications with technologies like: </br>
+🎓 &nbsp; Attended coding bootcamps such as: 
 
+-  [<img height="30px" align="center" src="https://codeacademy.lt/wp-content/themes/codeacademy/dist/images/codeacademy-black.svg" alt="code academy icon" />](https://codeacademy.lt/en/)
+- [<img height="30px" src="https://www.iamjunior.lt/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Flogo.aeb85af4.png&w=48&q=75" alt="I am Junior icon" />](https://www.iamjunior.lt/) <br/>
 
 
 ## 💻 Tech Stack
