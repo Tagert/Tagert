@@ -1,12 +1,12 @@
 ## 👋 Hi there, I’m Andrejus
-👀 &nbsp; Junior developer transitioning from a background in geodetic engineering.<br/>
+**👀 &nbsp; Junior developer transitioning from a background in geodetic engineering.**<br/>
 
-🚀 &nbsp; Currently focused on learning and building Full-Stack, SaaS aplications. </br>
+🚀 &nbsp; Currently focused on learning and building Full-Stack applications.</br>
 
-🎓 &nbsp; Attended coding bootcamps such as: 
+🎓 &nbsp; Attended coding bootcamps such as:
 
--  [<img height="30px" align="center" src="https://codeacademy.lt/wp-content/themes/codeacademy/dist/images/codeacademy-black.svg" alt="code academy icon" />](https://codeacademy.lt/en/)
-- [<img height="30px" src="https://www.iamjunior.lt/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Flogo.aeb85af4.png&w=48&q=75" alt="I am Junior icon" />](https://www.iamjunior.lt/) <br/>
+- [<img height="29px" align="center" src="https://codeacademy.lt/wp-content/themes/codeacademy/dist/images/codeacademy-black.svg" alt="code academy icon" />](https://codeacademy.lt/en/)
+- [<img height="27px" src="https://www.iamjunior.lt/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Flogo.aeb85af4.png&w=48&q=75" alt="I am Junior icon" />](https://www.iamjunior.lt/) <br/>
 
 
 ## 💻 Tech Stack
@@ -28,7 +28,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Tagert&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Tagert&theme=transparent&hide_border=false)
 
-Feel free to explore my repositories, provide feedback, or reach out if you have similar interests or just want to chat tech! Open to collaboration and always excited to learn new things!
+*Feel free to explore my repositories, provide feedback, or reach out if you have similar interests or just want to chat tech! Open to collaboration and always excited to learn new things!*
 
 ## 📫 Let's Connect: &nbsp;
 
