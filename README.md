@@ -6,7 +6,7 @@
 🎓 &nbsp; Attended coding bootcamps such as:
 
 - [<img height="29px" align="center" src="https://codeacademy.lt/wp-content/themes/codeacademy/dist/images/codeacademy-black.svg" alt="code academy icon" />](https://codeacademy.lt/en/)
-- [<img height="27px" src="https://www.iamjunior.lt/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Flogo.aeb85af4.png&w=48&q=75" alt="I am Junior icon" />](https://www.iamjunior.lt/) <br/>
+- [<img height="27px" src="https://www.iamjunior.lt/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Flogo.aeb85af4.png&w=48&q=75" alt="I am Junior icon" />](https://www.iamjunior.lt/) **<span>IamJunior</span>** <br/>
 
 
 ## 💻 Tech Stack
